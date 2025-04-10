@@ -1,4 +1,4 @@
-const activityIdeas = [
+export const activityIdeas = [
   {
     id: 1,
     title: "Build a Cozy Fort",
@@ -120,5 +120,3 @@ const activityIdeas = [
     description: "Find a couple of old (clean!) socks. Put them on your hands – these are your puppets! You can draw faces on them with a marker if you like (ask permission first if they aren't your socks!). Hide behind a sofa or chair and put on a show. Make up funny voices and a simple story. It’s pure, silly fun for any age."
   }
 ];
-
-export default activityIdeas;
