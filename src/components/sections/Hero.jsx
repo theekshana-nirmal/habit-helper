@@ -10,7 +10,15 @@ import React from 'react'
 
 const HeroSection = () => {
   return (
-    <div>HeroSection</div>
+    <div>
+      <div className='flex flex-col items-center justify-center w-full h-screen bg-amber-200 p-4'>
+        <div className="container max-w-7xl flex flex-col items-center text-center">
+          <h1 className="text-4xl font-bold mb-4">Tired of Endless Scrolling?</h1>
+          <p className="text-lg mb-8">Discover simple, refreshing things you can do right now instead of getting lost in your phone. Reclaim your moments, find your focus.</p>
+          <a href="/ideas" className="shadow-md bg-slate-50 text-black px-6 py-3 rounded-lg hover:bg-slate-100 transition duration-300">Explore Activities Now</a>
+        </div>
+      </div>
+    </div>
   )
 }
 
