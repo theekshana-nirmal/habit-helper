@@ -14,7 +14,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="flex items-center justify-center w-full bg-amber-200 p-4">
+    <header className="flex items-center justify-center w-full bg-white p-4">
       <div className="container max-w-7xl flex justify-between items-center">
         <div>Habit Helper</div>
         <div>
