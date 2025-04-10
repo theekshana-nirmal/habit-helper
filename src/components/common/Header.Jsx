@@ -11,6 +11,7 @@ About
 */
 
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -19,9 +20,9 @@ const Header = () => {
         <div>Habit Helper</div>
         <div>
           <nav className="flex gap-8">
-            <a href="#">Home</a>
-            <a href="#">Ideas</a>
-            <a href="#">About</a>
+            <Link to="/">Home</Link>
+            <Link to="/ideas">Ideas</Link>
+            <Link to="/about">About</Link>
           </nav>
         </div>
       </div>
