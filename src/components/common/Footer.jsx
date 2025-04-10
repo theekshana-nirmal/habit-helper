@@ -7,3 +7,13 @@ Creator Credit Text: A personal project by Theekshana Nirmal.
 Optional Footer Links Text: About, Ideas, GitHub (Link to your repo)
 
 */
+
+import React from 'react'
+
+const Footer = () => {
+  return (
+    <div>Footer</div>
+  )
+}
+
+export default Footer
