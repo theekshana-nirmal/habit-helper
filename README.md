@@ -4,12 +4,6 @@ Habit Helper is a React-based project designed to help users discover simple, re
 
 ![Habit Helper](public/habit-helper.png)
 
-## Features
-
-- **Hero Section**: A visually appealing introduction with a call-to-action button linking to the "Ideas" page.
-- **Features Grid**: Highlights the key benefits of the app, such as zero-cost fun, inclusivity for all ages, and quick-start activities.
-- **Header Navigation**: A responsive header with navigation links to "Home," "Ideas," and "About" pages.
-
 ## Technologies Used
 
 - **React**: For building reusable components and managing the application's state.
