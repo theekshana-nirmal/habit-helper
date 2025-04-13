@@ -33,10 +33,10 @@ const HeroSection = () => {
             </Link>
           </div>
         </div>
-        <div className="mt-14">
+        <div className="mt-14 flex justify-center items-center">
           <img
-            src="https://raw.githubusercontent.com/sidiDev/remote-assets/main/Safari%20(Big%20Sur)%20-%20Light.png"
-            className="w-full shadow-lg rounded-lg border"
+            src="/src/assets/images/ideas.png"
+            className="w-90"
             alt=""
           />
         </div>
